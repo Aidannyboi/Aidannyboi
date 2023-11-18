@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aidannyboi
 - 👀 I’m interested in working together on hard or simple projects to better understand them.
-- 🌱 I’m currently learning JavaSctipt, but in the next few months I will also learn Java, and Python.
+- 🌱 I’m currently learning JavaSctipt, and have a profiecient undestanding on full stack application when it comes to Python and Java.
 - 💞️ I’m looking to collaborate on any project that pertains to the three languages im learning (JavaScript, Python, Java)
 - 📫 The best way to reach me would be through discord at Aidanannyboi#6236
 - If you find and issues or better ways to improve my code please let me know im always looking to adapt and improve.
